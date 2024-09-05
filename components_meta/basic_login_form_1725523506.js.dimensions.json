@@ -1,0 +1,18 @@
+{
+    "id": "basic_login_form-b692338f-7f9a-9fd0-03b6-ff596ab4c1f4",
+    "name": "basic_login_form",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 15,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
